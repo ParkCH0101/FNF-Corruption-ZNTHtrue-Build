@@ -3,5 +3,5 @@
 + 모드폴더 아니면 적용 안됨
 
 # 출처
-Original Engine by ShadowMario
-Android Port by KralOyuncu 2010x
+- Original Engine by ShadowMario
+- Android Port by KralOyuncu 2010x
